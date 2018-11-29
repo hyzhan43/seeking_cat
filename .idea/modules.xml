@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seeking_cat.iml" filepath="$PROJECT_DIR$/seeking_cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seeking_cat_android.iml" filepath="$PROJECT_DIR$/seeking_cat_android.iml" />
+    </modules>
+  </component>
+</project>
